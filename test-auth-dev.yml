@@ -1,7 +1,7 @@
 
 # datasoure默认使用JDBC
 test:
-  data: com.mysql.jdbc.Driver
-  port: 2000;
+  data: test
+  port: 200
 
 
